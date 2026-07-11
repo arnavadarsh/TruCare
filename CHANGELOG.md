@@ -5,3 +5,4 @@
 2026-07-11 23:55:23Z - style: tidy up CSS variables and formatting
 2026-07-11 23:55:23Z - refactor: extract common Button into components/common/Button.jsx
 2026-07-11 23:55:23Z - test: add simple smoke test placeholder for ChatBot
+2026-07-11 23:55:23Z - perf: optimize static asset handling for images
