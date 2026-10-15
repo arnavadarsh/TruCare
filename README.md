@@ -77,5 +77,5 @@ Open issues or pull requests with clear descriptions. Include reproduction steps
 
 ## License
 
-Specify your project's license here.
+Specify your project's license here
 
